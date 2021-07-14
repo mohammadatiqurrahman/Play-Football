@@ -42,6 +42,12 @@ body{
     color: white;
     background-color: rgb(235, 18, 119);
 }
+    /* hover effect on button */
+.button-1:hover{
+    background-color: rgb(221, 65, 138);
+    color: white
+    
+}
 .icon-1{
     margin-left: 10px;
     color: white;
@@ -135,6 +141,26 @@ body{
 }
 button{
     padding: 5px 10px;
+}
+
+/*
+additional Video section design 
+*/
+.vieo-container{
+
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    
+}
+.play-video{
+    margin-left: 100px;
+}
+.match-summary{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 300px;
 }
 
     /* footer section */
